@@ -33,11 +33,6 @@ samples = [
 ]
 
 
-"""
-Facial expressions from an image
-"""
-
-
 async def main():
     client = HumeStreamClient(HUME_API_KEY)
     config = LanguageConfig()
@@ -52,7 +47,7 @@ asyncio.run(main())
 
 
 """
-Speech prosody from an audio or video file
+Facial expressions from an image
 """
 
 
@@ -66,6 +61,10 @@ async def main():
 
 
 asyncio.run(main())
+
+"""
+Speech prosody from an audio or video file
+"""
 
 
 # async def main():
