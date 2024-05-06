@@ -2,185 +2,83 @@ Sr No.,Utterance,Speaker,Emotion,Sentiment,Dialogue_ID,Utterance_ID,Season,Episo
 66,Wow! It looks like we got a lot of good stuff.,Ross,joy,positive,7,0,8,20,"00:15:01,722","00:15:03,557"
 67,"Oh we did, but my mom got us the greatest gift of all.",Rachel,joy,positive,7,1,8,20,"00:15:03,724","00:15:06,560"
 68,A,Ross,neutral,neutral,7,2,8,20,"00:15:06,769","00:15:08,729"
-69,No. She鈥檚 going to live with us for eight weeks.,Rachel,neutral,neutral,7,3,8,20,"00:15:09,897","00:15:14,026"
+69,No. She’s going to live with us for eight weeks.,Rachel,neutral,neutral,7,3,8,20,"00:15:09,897","00:15:14,026"
 70,"Uh, what?",Ross,surprise,positive,7,4,8,20,"00:15:14,276","00:15:15,672"
-71,Yes! She鈥檚 gonna help us take care of the baby! Woo-hoo.,Rachel,joy,positive,7,5,8,20,"00:15:15,861","00:15:19,656"
-72,What鈥擸ou鈥檙e not serious.,Ross,surprise,negative,7,6,8,20,"00:15:20,574","00:15:22,743"
-73,"I mean she鈥檚 a very nice woman, but there is no way we can take eight weeks of her.",Ross,anger,negative,7,7,8,20,"00:15:22,910","00:15:27,247"
-74,She鈥檒l drive us totally crazy.,Ross,disgust,negative,7,8,8,20,"0:15:27,414","0:15:28,999"
+71,Yes! She’s gonna help us take care of the baby! Woo-hoo.,Rachel,joy,positive,7,5,8,20,"00:15:15,861","00:15:19,656"
+72,What—You’re not serious.,Ross,surprise,negative,7,6,8,20,"00:15:20,574","00:15:22,743"
+73,"I mean she’s a very nice woman, but there is no way we can take eight weeks of her.",Ross,anger,negative,7,7,8,20,"00:15:22,910","00:15:27,247"
+74,She’ll drive us totally crazy.,Ross,disgust,negative,7,8,8,20,"0:15:27,414","0:15:28,999"
 75,Hi Ross!,Mrs. Green,joy,positive,7,9,8,20,"0:15:28,999","0:15:29,508"
 76,Hi roomie!,Ross,joy,positive,7,10,8,20,"00:15:29,625","00:15:31,835"
-352,"The reactor鈥檚 gonna blow in three seconds, we鈥檙e never gonna make it!",Joey,fear,negative,30,0,6,20,"00:00:05,005","00:00:08,549"
-353,You鈥檝e got to get out of here! Save yourself!,Phoebe,fear,negative,30,1,6,20,"00:00:08,717","00:00:11,802"
-354,No! I won鈥檛 leave you!,Joey,fear,negative,30,2,6,20,"00:00:13,555","00:00:15,014"
-355,"Don鈥檛 worry about me, I鈥檓 a robot! I鈥檓 just a machine!!",Phoebe,sadness,negative,30,3,6,20,"00:00:15,181","00:00:20,060"
-356,No you鈥檙e not! Not to me!,Joey,anger,negative,30,4,6,20,"0:00:21,521","0:00:23,523"
+352,"The reactor’s gonna blow in three seconds, we’re never gonna make it!",Joey,fear,negative,30,0,6,20,"00:00:05,005","00:00:08,549"
+353,You’ve got to get out of here! Save yourself!,Phoebe,fear,negative,30,1,6,20,"00:00:08,717","00:00:11,802"
+354,No! I won’t leave you!,Joey,fear,negative,30,2,6,20,"00:00:13,555","00:00:15,014"
+355,"Don’t worry about me, I’m a robot! I’m just a machine!!",Phoebe,sadness,negative,30,3,6,20,"00:00:15,181","00:00:20,060"
+356,No you’re not! Not to me!,Joey,anger,negative,30,4,6,20,"0:00:21,521","0:00:23,523"
 357,Oh my God.,Phoebe,surprise,positive,30,5,6,20,"0:00:23,523","0:00:25,329"
 358,What?,Joey,neutral,neutral,30,6,6,20,"0:00:25,442","0:00:26,124"
 359,I am,Phoebe,neutral,neutral,30,7,6,20,"0:00:26,124","0:00:28,664"
-360,"Yeah, you鈥檙e great! Okay, let鈥檚 take it from",Joey,joy,positive,30,8,6,20,"00:00:29,446","00:00:35,159"
+360,"Yeah, you’re great! Okay, let’s take it from",Joey,joy,positive,30,8,6,20,"00:00:29,446","00:00:35,159"
 361,"No, I mean I was really acting my ass off.",Phoebe,joy,positive,30,9,6,20,"00:00:31,031","00:00:35,159"
 362,"Yeah, I thought I was pretty good too.",Joey,joy,positive,30,10,6,20,"00:00:36,327","00:00:38,078"
-363,"Oh yeah, you鈥檙e solid. Yeah, you鈥檙e just no me.",Phoebe,neutral,neutral,30,11,6,20,"00:00:38,246","00:00:40,789"
-364,Y鈥檏now what? I think that鈥檚 enough for now. Yeah. I don鈥檛 want to be over rehearsed.,Joey,neutral,neutral,30,12,6,20,"00:00:42,500","00:00:46,962"
+363,"Oh yeah, you’re solid. Yeah, you’re just no me.",Phoebe,neutral,neutral,30,11,6,20,"00:00:38,246","00:00:40,789"
+364,Y’know what? I think that’s enough for now. Yeah. I don’t want to be over rehearsed.,Joey,neutral,neutral,30,12,6,20,"00:00:42,500","00:00:46,962"
 365,Fine!,Phoebe,anger,negative,30,13,6,20,"0:00:47,547","0:00:48,219"
-366,I鈥檒l do it without you!,Phoebe,anger,negative,30,14,6,20,"0:00:48,219","0:00:50,279"
-367,I don鈥檛 need you or anybody else!,Phoebe,anger,negative,30,15,6,20,"00:00:50,800","00:00:53,552"
-368,I鈥檓 gonna make it on my own!,Phoebe,anger,negative,30,16,6,20,"00:00:53,803","00:00:56,346"
-369,You鈥檒l see!!,Phoebe,anger,negative,30,17,6,20,"0:00:57,682","0:01:00,435"
-370,You鈥檒l,Phoebe,neutral,neutral,30,18,6,20,"0:01:00,435","0:01:00,574"
+366,I’ll do it without you!,Phoebe,anger,negative,30,14,6,20,"0:00:48,219","0:00:50,279"
+367,I don’t need you or anybody else!,Phoebe,anger,negative,30,15,6,20,"00:00:50,800","00:00:53,552"
+368,I’m gonna make it on my own!,Phoebe,anger,negative,30,16,6,20,"00:00:53,803","00:00:56,346"
+369,You’ll see!!,Phoebe,anger,negative,30,17,6,20,"0:00:57,682","0:01:00,435"
+370,You’ll,Phoebe,neutral,neutral,30,18,6,20,"0:01:00,435","0:01:00,574"
 579,"Joey, onstage!",Stage Manager,anger,negative,56,0,3,22,"00:19:48,103","00:19:50,354"
 580,Well can you at least stay to the end of the play?,Joey,sadness,negative,56,1,3,22,"00:19:51,106","00:19:53,274"
-581,"I mean, I鈥檒l go to the airport with ya, I-I wanna say good bye.",Joey,sadness,negative,56,2,3,22,"00:19:53,442","00:19:56,227"
+581,"I mean, I’ll go to the airport with ya, I-I wanna say good bye.",Joey,sadness,negative,56,2,3,22,"00:19:53,442","00:19:56,227"
 582,Where are you Vic?,Lauren,neutral,neutral,56,3,3,22,"00:19:56,445","00:19:58,362"
-583,Flight鈥檚 in an hour. I-I gotta go.,Kate,sadness,negative,56,4,3,22,"00:19:58,530","00:20:00,698"
+583,Flight’s in an hour. I-I gotta go.,Kate,sadness,negative,56,4,3,22,"00:19:58,530","00:20:00,698"
 584,Vic! Vic!,Lauren,anger,negative,56,5,3,22,"00:20:00,866","00:20:02,325"
 585,In a minute!!,Joey,anger,negative,56,6,3,22,"00:20:05,454","00:20:07,455"
 586,So this is it? Victor?,Lauren,sadness,negative,56,7,3,22,"00:20:09,583","00:20:11,959"
 587,"Yeah, I guess it is.",Joey,sadness,negative,56,8,3,22,"00:20:12,794","00:20:15,755"
-588,"Listen, I ah, I gotta say good bye, and-and I gotta say it quick 鈥榗ause this is killing me.",Joey,sadness,negative,56,9,3,22,"00:20:21,970","00:20:28,643"
+588,"Listen, I ah, I gotta say good bye, and-and I gotta say it quick ‘cause this is killing me.",Joey,sadness,negative,56,9,3,22,"00:20:21,970","00:20:28,643"
 589,"One thing you gotta know, is that I will never forget you.",Joey,sadness,negative,56,10,3,22,"00:20:29,311","00:20:33,898"
-590,"But, you鈥檝e got things you have to do now, and so do I.",Joey,sadness,negative,56,11,3,22,"00:20:34,149","00:20:39,320"
-591,"And so鈥?I鈥檓 gonna get on this spaceship,  and I鈥檓 gonna go to Blargon 7 in search of alternative fuels.",Joey,sadness,negative,56,12,3,22,"00:20:40,989","00:20:57,797"
-592,"But when I return, 200 years from now, you鈥檒l be long gone.",Joey,sadness,negative,56,13,3,22,"00:20:59,508","00:21:05,471"
-593,But I won鈥檛 have aged at all.,Joey,neutral,neutral,56,14,3,22,"00:21:06,098","00:21:08,557"
-594,"So you tell your great-great-granddaughter to look me up, because Adrienne, baby, I鈥檓 gonna want to meet her.",Joey,neutral,neutral,56,15,3,22,"00:21:11,823","00:21:26,534"
+590,"But, you’ve got things you have to do now, and so do I.",Joey,sadness,negative,56,11,3,22,"00:20:34,149","00:20:39,320"
+591,"And so… I’m gonna get on this spaceship,  and I’m gonna go to Blargon 7 in search of alternative fuels.",Joey,sadness,negative,56,12,3,22,"00:20:40,989","00:20:57,797"
+592,"But when I return, 200 years from now, you’ll be long gone.",Joey,sadness,negative,56,13,3,22,"00:20:59,508","00:21:05,471"
+593,But I won’t have aged at all.,Joey,neutral,neutral,56,14,3,22,"00:21:06,098","00:21:08,557"
+594,"So you tell your great-great-granddaughter to look me up, because Adrienne, baby, I’m gonna want to meet her.",Joey,neutral,neutral,56,15,3,22,"00:21:11,823","00:21:26,534"
 595,"So long, Vic!",Lauren,sadness,negative,56,16,3,22,"00:21:34,293","00:21:36,585"
-1026,"Look at it! Ohhh! Wallpaper鈥檚 a little faded, that鈥檚 okay. Carpet鈥檚 a little loose. Hardwood floors!!",Monica,joy,positive,97,0,3,20,"00:03:55,109","00:04:03,992"
+1026,"Look at it! Ohhh! Wallpaper’s a little faded, that’s okay. Carpet’s a little loose. Hardwood floors!!",Monica,joy,positive,97,0,3,20,"00:03:55,109","00:04:03,992"
 1027,Hey!,Phoebe,joy,positive,97,1,3,20,"0:04:06,204","0:04:06,706"
 1028,Hello.,Chandler,neutral,neutral,97,2,3,20,"0:04:06,706","0:04:08,722"
-1029,Oh! Ooh! Oh Monica! It鈥檚 so beautiful.,Phoebe,joy,positive,97,3,3,20,"00:04:08,831","00:04:13,835"
+1029,Oh! Ooh! Oh Monica! It’s so beautiful.,Phoebe,joy,positive,97,3,3,20,"00:04:08,831","00:04:13,835"
 1030,I know!!!,Monica,joy,positive,97,4,3,20,"00:04:11,835","00:04:13,835"
-1031,"So, I鈥檓 here, ready to play.",Phoebe,joy,positive,97,5,3,20,"0:04:14,963","0:04:16,675"
+1031,"So, I’m here, ready to play.",Phoebe,joy,positive,97,5,3,20,"0:04:14,963","0:04:16,675"
 1032,Okay.,Monica,neutral,neutral,97,6,3,20,"0:04:16,675","0:04:17,695"
 1033,"I brought a bunch of stuff for the house, so check it out. Ha-ha.",Phoebe,joy,positive,97,7,3,20,"00:04:17,799","00:04:22,261"
-1034,What鈥檚 this?,Monica,surprise,positive,97,8,3,20,"00:04:25,974","00:04:27,057"
-1035,"That鈥檚 a dog, every house should have a dog.",Phoebe,joy,positive,97,9,3,20,"00:04:27,225","00:04:29,559"
+1034,What’s this?,Monica,surprise,positive,97,8,3,20,"00:04:25,974","00:04:27,057"
+1035,"That’s a dog, every house should have a dog.",Phoebe,joy,positive,97,9,3,20,"00:04:27,225","00:04:29,559"
 1036,Not one that can pee on the roof.,Monica,surprise,negative,97,10,3,20,"00:04:30,144","00:04:32,020"
-1037,"Well, maybe it鈥檚 so big because the house was built on radioactive waste.",Phoebe,joy,positive,97,11,3,20,"00:04:33,481","00:04:39,403"
+1037,"Well, maybe it’s so big because the house was built on radioactive waste.",Phoebe,joy,positive,97,11,3,20,"00:04:33,481","00:04:39,403"
 1038,And is this in case the house sneezes?,Chandler,surprise,negative,97,12,3,20,"00:04:41,447","00:04:45,033"
-1039,"No, no, that鈥檚 the ghost for the attic.",Phoebe,neutral,neutral,97,13,3,20,"00:04:46,619","00:04:50,122"
-1040,I don鈥檛 want a ghost.,Monica,fear,negative,97,14,3,20,"00:04:51,249","00:04:55,043"
-1041,"Well, nobody wants a ghost. But you鈥檝e got one, because the house is sitting on an ancient Indian burial ground.",Phoebe,neutral,neutral,97,15,3,20,"00:04:56,462","00:05:02,342"
+1039,"No, no, that’s the ghost for the attic.",Phoebe,neutral,neutral,97,13,3,20,"00:04:46,619","00:04:50,122"
+1040,I don’t want a ghost.,Monica,fear,negative,97,14,3,20,"00:04:51,249","00:04:55,043"
+1041,"Well, nobody wants a ghost. But you’ve got one, because the house is sitting on an ancient Indian burial ground.",Phoebe,neutral,neutral,97,15,3,20,"00:04:56,462","00:05:02,342"
 1042,"Wait a minute, the house was built on radioactive waste, and an ancient Indian burial ground? That would never happen.",Ross,surprise,positive,97,16,3,20,"00:05:04,053","00:05:12,394"
-1043,"Okay, obviously you don鈥檛 know much about the U.S. government.",Phoebe,neutral,neutral,97,17,3,20,"00:05:14,063","00:05:17,899"
+1043,"Okay, obviously you don’t know much about the U.S. government.",Phoebe,neutral,neutral,97,17,3,20,"00:05:14,063","00:05:17,899"
 1044,Hey!,Rachel,surprise,positive,97,18,3,20,"0:05:19,068","0:05:20,960"
 1045,Hello.,All,neutral,neutral,97,19,3,20,"0:05:20,960","0:05:21,458"
 1046,I need to talk to you!,Rachel,joy,positive,97,20,3,20,"0:05:21,571","0:05:23,115"
-1047,"Sure, what鈥檚 up?",Ross,neutral,neutral,97,21,3,20,"0:05:23,115","0:05:24,625"
-1048,"Rachel, it鈥檚 going to happen. Chandler is gonna move in here.",Monica,neutral,neutral,113,0,6,2,"00:18:52,923","00:18:59,303"
-1049,But I,Rachel,sadness,negative,113,1,6,2,"0:18:59,513","0:19:00,015"
-1050,"No-no, wait!",Monica,neutral,neutral,113,2,6,2,"0:19:00,015","0:19:02,147"
-1051,"Just let me finish, okay?",Monica,sadness,negative,113,3,6,2,"0:19:02,147","0:19:02,469"
-1052,"This isn鈥檛 something that we just, we just impulsively decided in-in Vegas, this is something we both really want.",Monica,neutral,neutral,113,4,6,2,"00:19:03,308","00:19:09,856"
-1053,And it,Monica,neutral,neutral,113,5,6,2,"00:19:11,525","00:19:14,068"
-1054,It is? Really?,Rachel,surprise,negative,113,6,6,2,"00:19:14,862","00:19:19,699"
-1055,"Yeah, sweetie.",Monica,neutral,neutral,113,7,6,2,"00:19:20,159","00:19:21,826"
-1057,"I mean we鈥檙e not, we鈥檙e not gonna live together anymore?",Rachel,sadness,negative,113,8,6,2,"00:19:23,620","00:19:27,540"
-1059,No.,Monica,sadness,negative,113,9,6,2,"00:19:28,792","00:19:29,876"
-1060,What? Oh my God! I鈥檓 gonna miss you so much!,Rachel,sadness,negative,113,10,6,2,"00:19:33,213","00:19:35,965"
-1061,I鈥檓 gonna miss you!,Monica,sadness,negative,113,11,6,2,"00:19:36,175","00:19:37,967"
-1062,I mean it鈥檚 the end of an era!,Rachel,sadness,negative,113,12,6,2,"00:19:39,094","00:19:40,928"
-1063,I know!,Monica,sadness,negative,113,13,6,2,"00:19:41,138","00:19:42,638"
-1064,,,,,,,,,,
-1065,,,,,,,,,,
-1066,,,,,,,,,,
-1067,,,,,,,,,,
-1068,,,,,,,,,,
-1069,,,,,,,,,,
-1070,,,,,,,,,,
-1071,,,,,,,,,,
-1072,,,,,,,,,,
-1081,,,,,,,,,,
-1082,,,,,,,,,,
-1083,,,,,,,,,,
-1084,,,,,,,,,,
-1085,,,,,,,,,,
-1086,,,,,,,,,,
-1087,,,,,,,,,,
-1088,,,,,,,,,,
-1089,,,,,,,,,,
-1090,,,,,,,,,,
-1091,,,,,,,,,,
-1092,,,,,,,,,,
-1093,,,,,,,,,,
-1094,,,,,,,,,,
-1095,,,,,,,,,,
-1096,,,,,,,,,,
-1097,,,,,,,,,,
-1098,,,,,,,,,,
-1099,,,,,,,,,,
-1100,,,,,,,,,,
-1101,,,,,,,,,,
-1102,,,,,,,,,,
-1103,,,,,,,,,,
-1104,,,,,,,,,,
-1105,,,,,,,,,,
-1106,,,,,,,,,,
-1107,,,,,,,,,,
-1109,,,,,,,,,,
-1110,,,,,,,,,,
-1111,,,,,,,,,,
-1112,,,,,,,,,,
-1113,,,,,,,,,,
-1114,,,,,,,,,,
-1115,,,,,,,,,,
-1116,,,,,,,,,,
-1117,,,,,,,,,,
-1118,,,,,,,,,,
-1119,,,,,,,,,,
-1120,,,,,,,,,,
-1121,,,,,,,,,,
-1122,,,,,,,,,,
-1123,,,,,,,,,,
-1124,,,,,,,,,,
-1125,,,,,,,,,,
-1126,,,,,,,,,,
-1127,,,,,,,,,,
-1128,,,,,,,,,,
-1129,,,,,,,,,,
-1131,,,,,,,,,,
-1132,,,,,,,,,,
-1133,,,,,,,,,,
-1134,,,,,,,,,,
-1135,,,,,,,,,,
-1136,,,,,,,,,,
-1137,,,,,,,,,,
-1138,,,,,,,,,,
-1139,,,,,,,,,,
-1140,,,,,,,,,,
-1141,,,,,,,,,,
-1142,,,,,,,,,,
-1143,,,,,,,,,,
-1145,,,,,,,,,,
-1146,,,,,,,,,,
-1147,,,,,,,,,,
-1148,,,,,,,,,,
-1149,,,,,,,,,,
-1150,,,,,,,,,,
-1152,,,,,,,,,,
-1153,,,,,,,,,,
-1155,,,,,,,,,,
-1156,,,,,,,,,,
-1157,,,,,,,,,,
-1158,,,,,,,,,,
-1159,,,,,,,,,,
-1160,,,,,,,,,,
-1161,,,,,,,,,,
-1162,,,,,,,,,,
-1163,,,,,,,,,,
-1164,,,,,,,,,,
-1165,,,,,,,,,,
-1166,,,,,,,,,,
-1167,,,,,,,,,,
-1168,,,,,,,,,,
-1169,,,,,,,,,,
-1170,,,,,,,,,,
-1171,,,,,,,,,,
-1172,,,,,,,,,,
-1173,,,,,,,,,,
-1174,,,,,,,,,,
-1175,,,,,,,,,,
-1176,,,,,,,,,,
-1177,,,,,,,,,,
-1178,,,,,,,,,,
+1047,"Sure, what’s up?",Ross,neutral,neutral,97,21,3,20,"0:05:23,115","0:05:24,625"
+1165,"Rachel, it’s going to happen. Chandler is gonna move in here.",Monica,neutral,neutral,113,0,6,2,"00:18:52,923","00:18:59,303"
+1166,But I,Rachel,sadness,negative,113,1,6,2,"0:18:59,513","0:19:00,015"
+1167,"No-no, wait!",Monica,neutral,neutral,113,2,6,2,"0:19:00,015","0:19:02,147"
+1168,"Just let me finish, okay?",Monica,sadness,negative,113,3,6,2,"0:19:02,147","0:19:02,469"
+1169,"This isn’t something that we just, we just impulsively decided in-in Vegas, this is something we both really want.",Monica,neutral,neutral,113,4,6,2,"00:19:03,308","00:19:09,856"
+1170,And it,Monica,neutral,neutral,113,5,6,2,"00:19:11,525","00:19:14,068"
+1171,It is? Really?,Rachel,surprise,negative,113,6,6,2,"00:19:14,862","00:19:19,699"
+1172,"Yeah, sweetie.",Monica,neutral,neutral,113,7,6,2,"00:19:20,159","00:19:21,826"
+1173,"I mean we’re not, we’re not gonna live together anymore?",Rachel,sadness,negative,113,8,6,2,"00:19:23,620","00:19:27,540"
+1174,No.,Monica,sadness,negative,113,9,6,2,"00:19:28,792","00:19:29,876"
+1175,What? Oh my God! I’m gonna miss you so much!,Rachel,sadness,negative,113,10,6,2,"00:19:33,213","00:19:35,965"
+1176,I’m gonna miss you!,Monica,sadness,negative,113,11,6,2,"00:19:36,175","00:19:37,967"
+1177,I mean it’s the end of an era!,Rachel,sadness,negative,113,12,6,2,"00:19:39,094","00:19:40,928"
+1178,I know!,Monica,sadness,negative,113,13,6,2,"00:19:41,138","00:19:42,638"
