@@ -6,7 +6,8 @@
         "speaker": "Rachel",
         "emotion": "sadness",
         "sentiment": "negative",
-        "text_content": "I mean we\u2019re not, we\u2019re not gonna live together anymore?"
+        "text_content": "I mean we\u2019re not, we\u2019re not gonna live together anymore?",
+        "file_name": "113_00-00-30.697_00-00-34.617_Rachel_sadness_negative"
     },
     "predicted": {
         "face": {

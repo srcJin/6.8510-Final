@@ -6,7 +6,8 @@
         "speaker": "Phoebe",
         "emotion": "surprise",
         "sentiment": "positive",
-        "text_content": "Oh my God."
+        "text_content": "Oh my God.",
+        "file_name": "30_00-00-18.518_00-00-20.324_Phoebe_surprise_positive"
     },
     "predicted": {
         "face": {

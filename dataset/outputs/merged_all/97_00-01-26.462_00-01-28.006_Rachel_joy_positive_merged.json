@@ -6,7 +6,8 @@
         "speaker": "Rachel",
         "emotion": "joy",
         "sentiment": "positive",
-        "text_content": "I need to talk to you!"
+        "text_content": "I need to talk to you!",
+        "file_name": "97_00-01-26.462_00-01-28.006_Rachel_joy_positive"
     },
     "predicted": {
         "face": {

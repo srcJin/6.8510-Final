@@ -6,7 +6,8 @@
         "speaker": "Monica",
         "emotion": "joy",
         "sentiment": "positive",
-        "text_content": "I know!!!"
+        "text_content": "I know!!!",
+        "file_name": "97_00-00-16.726_00-00-18.726_Monica_joy_positive"
     },
     "predicted": {
         "face": {

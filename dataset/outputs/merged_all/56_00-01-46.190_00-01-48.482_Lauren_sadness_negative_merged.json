@@ -6,7 +6,8 @@
         "speaker": "Lauren",
         "emotion": "sadness",
         "sentiment": "negative",
-        "text_content": "So long, Vic!"
+        "text_content": "So long, Vic!",
+        "file_name": "56_00-01-46.190_00-01-48.482_Lauren_sadness_negative"
     },
     "predicted": {
         "face": {},

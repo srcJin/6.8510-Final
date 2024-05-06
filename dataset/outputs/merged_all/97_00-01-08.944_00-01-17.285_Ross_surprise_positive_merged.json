@@ -6,7 +6,8 @@
         "speaker": "Ross",
         "emotion": "surprise",
         "sentiment": "positive",
-        "text_content": "Wait a minute, the house was built on radioactive waste, and an ancient Indian burial ground? That would never happen."
+        "text_content": "Wait a minute, the house was built on radioactive waste, and an ancient Indian burial ground? That would never happen.",
+        "file_name": "97_00-01-08.944_00-01-17.285_Ross_surprise_positive"
     },
     "predicted": {
         "face": {

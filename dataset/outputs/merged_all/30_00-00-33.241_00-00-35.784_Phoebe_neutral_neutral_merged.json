@@ -6,7 +6,8 @@
         "speaker": "Phoebe",
         "emotion": "neutral",
         "sentiment": "neutral",
-        "text_content": "Oh yeah, you\u2019re solid. Yeah, you\u2019re just no me."
+        "text_content": "Oh yeah, you\u2019re solid. Yeah, you\u2019re just no me.",
+        "file_name": "30_00-00-33.241_00-00-35.784_Phoebe_neutral_neutral"
     },
     "predicted": {
         "face": {

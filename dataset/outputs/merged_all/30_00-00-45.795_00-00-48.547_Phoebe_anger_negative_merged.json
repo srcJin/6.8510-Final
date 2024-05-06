@@ -6,7 +6,8 @@
         "speaker": "Phoebe",
         "emotion": "anger",
         "sentiment": "negative",
-        "text_content": "I don\u2019t need you or anybody else!"
+        "text_content": "I don\u2019t need you or anybody else!",
+        "file_name": "30_00-00-45.795_00-00-48.547_Phoebe_anger_negative"
     },
     "predicted": {
         "face": {

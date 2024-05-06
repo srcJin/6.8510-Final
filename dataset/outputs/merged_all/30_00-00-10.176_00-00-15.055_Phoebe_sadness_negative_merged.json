@@ -6,7 +6,8 @@
         "speaker": "Phoebe",
         "emotion": "sadness",
         "sentiment": "negative",
-        "text_content": "Don\u2019t worry about me, I\u2019m a robot! I\u2019m just a machine!!"
+        "text_content": "Don\u2019t worry about me, I\u2019m a robot! I\u2019m just a machine!!",
+        "file_name": "30_00-00-10.176_00-00-15.055_Phoebe_sadness_negative"
     },
     "predicted": {
         "face": {

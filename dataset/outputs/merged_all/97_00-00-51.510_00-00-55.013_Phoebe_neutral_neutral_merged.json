@@ -6,7 +6,8 @@
         "speaker": "Phoebe",
         "emotion": "neutral",
         "sentiment": "neutral",
-        "text_content": "No, no, that\u2019s the ghost for the attic."
+        "text_content": "No, no, that\u2019s the ghost for the attic.",
+        "file_name": "97_00-00-51.510_00-00-55.013_Phoebe_neutral_neutral"
     },
     "predicted": {
         "face": {

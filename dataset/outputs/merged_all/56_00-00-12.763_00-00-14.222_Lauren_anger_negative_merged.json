@@ -6,7 +6,8 @@
         "speaker": "Lauren",
         "emotion": "anger",
         "sentiment": "negative",
-        "text_content": "Vic! Vic!"
+        "text_content": "Vic! Vic!",
+        "file_name": "56_00-00-12.763_00-00-14.222_Lauren_anger_negative"
     },
     "predicted": {
         "face": {

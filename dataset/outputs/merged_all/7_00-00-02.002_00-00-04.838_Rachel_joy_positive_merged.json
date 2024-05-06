@@ -6,7 +6,8 @@
         "speaker": "Rachel",
         "emotion": "joy",
         "sentiment": "positive",
-        "text_content": "Oh we did, but my mom got us the greatest gift of all."
+        "text_content": "Oh we did, but my mom got us the greatest gift of all.",
+        "file_name": "7_00-00-02.002_00-00-04.838_Rachel_joy_positive"
     },
     "predicted": {
         "face": {

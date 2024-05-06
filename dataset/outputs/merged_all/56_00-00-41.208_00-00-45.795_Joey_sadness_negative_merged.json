@@ -6,7 +6,8 @@
         "speaker": "Joey",
         "emotion": "sadness",
         "sentiment": "negative",
-        "text_content": "One thing you gotta know, is that I will never forget you."
+        "text_content": "One thing you gotta know, is that I will never forget you.",
+        "file_name": "56_00-00-41.208_00-00-45.795_Joey_sadness_negative"
     },
     "predicted": {
         "face": {

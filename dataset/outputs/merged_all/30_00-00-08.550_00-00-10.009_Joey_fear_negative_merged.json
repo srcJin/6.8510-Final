@@ -6,7 +6,8 @@
         "speaker": "Joey",
         "emotion": "fear",
         "sentiment": "negative",
-        "text_content": "No! I won\u2019t leave you!"
+        "text_content": "No! I won\u2019t leave you!",
+        "file_name": "30_00-00-08.550_00-00-10.009_Joey_fear_negative"
     },
     "predicted": {
         "face": {

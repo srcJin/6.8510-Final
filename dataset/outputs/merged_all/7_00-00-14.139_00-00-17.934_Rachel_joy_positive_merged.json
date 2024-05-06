@@ -6,7 +6,8 @@
         "speaker": "Rachel",
         "emotion": "joy",
         "sentiment": "positive",
-        "text_content": "Yes! She\u2019s gonna help us take care of the baby! Woo-hoo."
+        "text_content": "Yes! She\u2019s gonna help us take care of the baby! Woo-hoo.",
+        "file_name": "7_00-00-14.139_00-00-17.934_Rachel_joy_positive"
     },
     "predicted": {
         "face": {

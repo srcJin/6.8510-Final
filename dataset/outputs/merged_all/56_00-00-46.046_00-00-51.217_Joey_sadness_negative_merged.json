@@ -6,7 +6,8 @@
         "speaker": "Joey",
         "emotion": "sadness",
         "sentiment": "negative",
-        "text_content": "But, you\u2019ve got things you have to do now, and so do I."
+        "text_content": "But, you\u2019ve got things you have to do now, and so do I.",
+        "file_name": "56_00-00-46.046_00-00-51.217_Joey_sadness_negative"
     },
     "predicted": {
         "face": {

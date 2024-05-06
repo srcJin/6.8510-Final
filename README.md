@@ -2,7 +2,12 @@
 
 ## put your API keys in .env_template file, and rename to .env
 
-## Install packagesE
+```
+OPENAI_API_KEY=
+HUME_API_KEY=
+```
+
+## Install packages
 
 ```
  pip install -r requirements. txt

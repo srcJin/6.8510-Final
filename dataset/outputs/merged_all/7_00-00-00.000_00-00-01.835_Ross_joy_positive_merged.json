@@ -6,7 +6,8 @@
         "speaker": "Ross",
         "emotion": "joy",
         "sentiment": "positive",
-        "text_content": "Wow! It looks like we got a lot of good stuff."
+        "text_content": "Wow! It looks like we got a lot of good stuff.",
+        "file_name": "7_00-00-00.000_00-00-01.835_Ross_joy_positive"
     },
     "predicted": {
         "face": {

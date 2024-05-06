@@ -6,7 +6,8 @@
         "speaker": "Monica",
         "emotion": "neutral",
         "sentiment": "neutral",
-        "text_content": "And it"
+        "text_content": "And it",
+        "file_name": "113_00-00-18.602_00-00-21.145_Monica_neutral_neutral"
     },
     "predicted": {
         "face": {

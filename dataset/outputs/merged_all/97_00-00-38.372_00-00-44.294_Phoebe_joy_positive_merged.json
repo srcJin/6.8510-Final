@@ -6,7 +6,8 @@
         "speaker": "Phoebe",
         "emotion": "joy",
         "sentiment": "positive",
-        "text_content": "Well, maybe it\u2019s so big because the house was built on radioactive waste."
+        "text_content": "Well, maybe it\u2019s so big because the house was built on radioactive waste.",
+        "file_name": "97_00-00-38.372_00-00-44.294_Phoebe_joy_positive"
     },
     "predicted": {
         "face": {

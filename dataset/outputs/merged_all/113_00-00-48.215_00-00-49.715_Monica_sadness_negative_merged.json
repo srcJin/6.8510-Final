@@ -6,7 +6,8 @@
         "speaker": "Monica",
         "emotion": "sadness",
         "sentiment": "negative",
-        "text_content": "I know!"
+        "text_content": "I know!",
+        "file_name": "113_00-00-48.215_00-00-49.715_Monica_sadness_negative"
     },
     "predicted": {
         "face": {

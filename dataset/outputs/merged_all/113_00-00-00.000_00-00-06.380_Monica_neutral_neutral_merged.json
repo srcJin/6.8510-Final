@@ -6,7 +6,8 @@
         "speaker": "Monica",
         "emotion": "neutral",
         "sentiment": "neutral",
-        "text_content": "Rachel, it\u2019s going to happen. Chandler is gonna move in here."
+        "text_content": "Rachel, it\u2019s going to happen. Chandler is gonna move in here.",
+        "file_name": "113_00-00-00.000_00-00-06.380_Monica_neutral_neutral"
     },
     "predicted": {
         "face": {

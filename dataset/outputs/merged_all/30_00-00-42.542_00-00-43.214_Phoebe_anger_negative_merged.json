@@ -6,7 +6,8 @@
         "speaker": "Phoebe",
         "emotion": "anger",
         "sentiment": "negative",
-        "text_content": "Fine!"
+        "text_content": "Fine!",
+        "file_name": "30_00-00-42.542_00-00-43.214_Phoebe_anger_negative"
     },
     "predicted": {
         "face": {

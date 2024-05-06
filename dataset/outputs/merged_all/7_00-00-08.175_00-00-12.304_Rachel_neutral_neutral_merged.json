@@ -6,7 +6,8 @@
         "speaker": "Rachel",
         "emotion": "neutral",
         "sentiment": "neutral",
-        "text_content": "No. She\u2019s going to live with us for eight weeks."
+        "text_content": "No. She\u2019s going to live with us for eight weeks.",
+        "file_name": "7_00-00-08.175_00-00-12.304_Rachel_neutral_neutral"
     },
     "predicted": {
         "face": {

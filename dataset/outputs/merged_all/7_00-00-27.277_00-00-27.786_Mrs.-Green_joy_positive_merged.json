@@ -6,7 +6,8 @@
         "speaker": "Mrs.-Green",
         "emotion": "joy",
         "sentiment": "positive",
-        "text_content": "Hi Ross!"
+        "text_content": "Hi Ross!",
+        "file_name": "7_00-00-27.277_00-00-27.786_Mrs.-Green_joy_positive"
     },
     "predicted": {
         "face": {

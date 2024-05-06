@@ -6,7 +6,8 @@
         "speaker": "Phoebe",
         "emotion": "joy",
         "sentiment": "positive",
-        "text_content": "So, I\u2019m here, ready to play."
+        "text_content": "So, I\u2019m here, ready to play.",
+        "file_name": "97_00-00-19.854_00-00-21.566_Phoebe_joy_positive"
     },
     "predicted": {
         "face": {

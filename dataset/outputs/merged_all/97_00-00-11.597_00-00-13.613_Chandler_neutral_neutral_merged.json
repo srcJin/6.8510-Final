@@ -6,7 +6,8 @@
         "speaker": "Chandler",
         "emotion": "neutral",
         "sentiment": "neutral",
-        "text_content": "Hello."
+        "text_content": "Hello.",
+        "file_name": "97_00-00-11.597_00-00-13.613_Chandler_neutral_neutral"
     },
     "predicted": {
         "face": {

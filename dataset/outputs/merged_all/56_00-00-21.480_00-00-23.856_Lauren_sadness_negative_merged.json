@@ -6,7 +6,8 @@
         "speaker": "Lauren",
         "emotion": "sadness",
         "sentiment": "negative",
-        "text_content": "So this is it? Victor?"
+        "text_content": "So this is it? Victor?",
+        "file_name": "56_00-00-21.480_00-00-23.856_Lauren_sadness_negative"
     },
     "predicted": {
         "face": {

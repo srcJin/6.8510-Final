@@ -6,7 +6,8 @@
         "speaker": "Joey",
         "emotion": "neutral",
         "sentiment": "neutral",
-        "text_content": "What?"
+        "text_content": "What?",
+        "file_name": "30_00-00-20.437_00-00-21.119_Joey_neutral_neutral"
     },
     "predicted": {
         "face": {

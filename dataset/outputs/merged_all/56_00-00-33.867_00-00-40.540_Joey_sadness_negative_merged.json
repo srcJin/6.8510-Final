@@ -6,7 +6,8 @@
         "speaker": "Joey",
         "emotion": "sadness",
         "sentiment": "negative",
-        "text_content": "Listen, I ah, I gotta say good bye, and-and I gotta say it quick \u2018cause this is killing me."
+        "text_content": "Listen, I ah, I gotta say good bye, and-and I gotta say it quick \u2018cause this is killing me.",
+        "file_name": "56_00-00-33.867_00-00-40.540_Joey_sadness_negative"
     },
     "predicted": {
         "face": {

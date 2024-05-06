@@ -6,7 +6,8 @@
         "speaker": "Phoebe",
         "emotion": "joy",
         "sentiment": "positive",
-        "text_content": "I brought a bunch of stuff for the house, so check it out. Ha-ha."
+        "text_content": "I brought a bunch of stuff for the house, so check it out. Ha-ha.",
+        "file_name": "97_00-00-22.690_00-00-27.152_Phoebe_joy_positive"
     },
     "predicted": {
         "face": {

@@ -6,7 +6,8 @@
         "speaker": "Chandler",
         "emotion": "surprise",
         "sentiment": "negative",
-        "text_content": "And is this in case the house sneezes?"
+        "text_content": "And is this in case the house sneezes?",
+        "file_name": "97_00-00-46.338_00-00-49.924_Chandler_surprise_negative"
     },
     "predicted": {
         "face": {

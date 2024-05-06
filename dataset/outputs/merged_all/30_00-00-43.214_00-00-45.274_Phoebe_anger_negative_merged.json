@@ -6,7 +6,8 @@
         "speaker": "Phoebe",
         "emotion": "anger",
         "sentiment": "negative",
-        "text_content": "I\u2019ll do it without you!"
+        "text_content": "I\u2019ll do it without you!",
+        "file_name": "30_00-00-43.214_00-00-45.274_Phoebe_anger_negative"
     },
     "predicted": {
         "face": {

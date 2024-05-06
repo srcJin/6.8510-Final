@@ -6,7 +6,8 @@
         "speaker": "Joey",
         "emotion": "sadness",
         "sentiment": "negative",
-        "text_content": "I mean, I\u2019ll go to the airport with ya, I-I wanna say good bye."
+        "text_content": "I mean, I\u2019ll go to the airport with ya, I-I wanna say good bye.",
+        "file_name": "56_00-00-05.339_00-00-08.124_Joey_sadness_negative"
     },
     "predicted": {
         "face": {

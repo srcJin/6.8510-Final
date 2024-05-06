@@ -6,7 +6,8 @@
         "speaker": "Rachel",
         "emotion": "sadness",
         "sentiment": "negative",
-        "text_content": "But I"
+        "text_content": "But I",
+        "file_name": "113_00-00-06.590_00-00-07.092_Rachel_sadness_negative"
     },
     "predicted": {
         "face": {

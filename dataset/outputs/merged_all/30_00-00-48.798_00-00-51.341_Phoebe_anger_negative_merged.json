@@ -6,7 +6,8 @@
         "speaker": "Phoebe",
         "emotion": "anger",
         "sentiment": "negative",
-        "text_content": "I\u2019m gonna make it on my own!"
+        "text_content": "I\u2019m gonna make it on my own!",
+        "file_name": "30_00-00-48.798_00-00-51.341_Phoebe_anger_negative"
     },
     "predicted": {
         "face": {
