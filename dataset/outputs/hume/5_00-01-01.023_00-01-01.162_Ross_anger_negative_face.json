@@ -1,0 +1,1 @@
+[{"source": {"type": "file", "filename": "5_00-01-01.023_00-01-01.162_Ross_anger_negative.mp4", "content_type": "video/mp4", "md5sum": "ed61238ea48d24fbe7c8fee185e6a321"}, "results": {"predictions": [{"file": "5_00-01-01.023_00-01-01.162_Ross_anger_negative.mp4", "file_type": "video_no_audio", "models": {"face": {"metadata": null, "grouped_predictions": []}}}], "errors": []}}]
