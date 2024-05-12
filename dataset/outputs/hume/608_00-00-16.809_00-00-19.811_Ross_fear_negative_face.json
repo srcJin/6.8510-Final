@@ -1,0 +1,1 @@
+[{"source": {"type": "file", "filename": "608_00-00-16.809_00-00-19.811_Ross_fear_negative.mp4", "content_type": "video/mp4", "md5sum": "78bdd69e95bfdd1ba2ed2b495d4cfd10"}, "results": {"predictions": [{"file": "608_00-00-16.809_00-00-19.811_Ross_fear_negative.mp4", "file_type": "video_no_audio", "models": {"face": {"metadata": null, "grouped_predictions": []}}}], "errors": []}}]

@@ -1,0 +1,1 @@
+[{"source": {"type": "file", "filename": "393_00-00-52.052_00-00-54.470_Ross_joy_positive.mp4", "content_type": "video/mp4", "md5sum": "2cb5b6919c365e1bd21c9f1e41d54224"}, "results": {"predictions": [{"file": "393_00-00-52.052_00-00-54.470_Ross_joy_positive.mp4", "file_type": "video_no_audio", "models": {"face": {"metadata": null, "grouped_predictions": []}}}], "errors": []}}]

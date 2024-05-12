@@ -1,0 +1,17 @@
+{
+    "metadata": {
+        "dialogue_id": "22",
+        "time_start": "-1-59-59.103",
+        "time_end": "-1-59-59.625",
+        "speaker": "Chandler",
+        "emotion": "neutral",
+        "sentiment": "neutral",
+        "text_content": "What is it?",
+        "file_name": "22_-1-59-59.103_-1-59-59.625_Chandler_neutral_neutral"
+    },
+    "predicted": {
+        "face": {},
+        "prosody": {},
+        "lang": {}
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "metadata": {
+        "dialogue_id": "74",
+        "time_start": "-1-59-59.290",
+        "time_end": "-1-59-59.958",
+        "speaker": "Rachel",
+        "emotion": "joy",
+        "sentiment": "positive",
+        "text_content": "Hi!",
+        "file_name": "74_-1-59-59.290_-1-59-59.958_Rachel_joy_positive"
+    },
+    "predicted": {
+        "face": {},
+        "prosody": {},
+        "lang": {}
+    }
+}

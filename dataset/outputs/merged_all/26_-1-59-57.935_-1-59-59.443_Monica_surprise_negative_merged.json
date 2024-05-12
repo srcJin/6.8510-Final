@@ -1,0 +1,17 @@
+{
+    "metadata": {
+        "dialogue_id": "26",
+        "time_start": "-1-59-57.935",
+        "time_end": "-1-59-59.443",
+        "speaker": "Monica",
+        "emotion": "surprise",
+        "sentiment": "negative",
+        "text_content": "Jody!",
+        "file_name": "26_-1-59-57.935_-1-59-59.443_Monica_surprise_negative"
+    },
+    "predicted": {
+        "face": {},
+        "prosody": {},
+        "lang": {}
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "metadata": {
+        "dialogue_id": "32",
+        "time_start": "-1-59-58.706",
+        "time_end": "00-00-00.667",
+        "speaker": "Dr.-Long",
+        "emotion": "surprise",
+        "sentiment": "positive",
+        "text_content": "So, eight days late huh?",
+        "file_name": "32_-1-59-58.706_00-00-00.667_Dr.-Long_surprise_positive"
+    },
+    "predicted": {
+        "face": {},
+        "prosody": {},
+        "lang": {}
+    }
+}

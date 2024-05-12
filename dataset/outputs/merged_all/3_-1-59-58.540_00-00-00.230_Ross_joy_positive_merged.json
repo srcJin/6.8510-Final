@@ -1,0 +1,17 @@
+{
+    "metadata": {
+        "dialogue_id": "3",
+        "time_start": "-1-59-58.540",
+        "time_end": "00-00-00.230",
+        "speaker": "Ross",
+        "emotion": "joy",
+        "sentiment": "positive",
+        "text_content": "Yeah!!",
+        "file_name": "3_-1-59-58.540_00-00-00.230_Ross_joy_positive"
+    },
+    "predicted": {
+        "face": {},
+        "prosody": {},
+        "lang": {}
+    }
+}

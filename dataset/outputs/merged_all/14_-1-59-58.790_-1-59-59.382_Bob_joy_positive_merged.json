@@ -1,0 +1,17 @@
+{
+    "metadata": {
+        "dialogue_id": "14",
+        "time_start": "-1-59-58.790",
+        "time_end": "-1-59-59.382",
+        "speaker": "Bob",
+        "emotion": "joy",
+        "sentiment": "positive",
+        "text_content": "Hey Toby!",
+        "file_name": "14_-1-59-58.790_-1-59-59.382_Bob_joy_positive"
+    },
+    "predicted": {
+        "face": {},
+        "prosody": {},
+        "lang": {}
+    }
+}
