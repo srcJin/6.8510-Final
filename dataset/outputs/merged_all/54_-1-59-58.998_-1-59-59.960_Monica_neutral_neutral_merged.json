@@ -1,0 +1,17 @@
+{
+    "metadata": {
+        "dialogue_id": "54",
+        "time_start": "-1-59-58.998",
+        "time_end": "-1-59-59.960",
+        "speaker": "Monica",
+        "emotion": "neutral",
+        "sentiment": "neutral",
+        "text_content": "Alright. Phoebe?",
+        "file_name": "54_-1-59-58.998_-1-59-59.960_Monica_neutral_neutral"
+    },
+    "predicted": {
+        "face": {},
+        "prosody": {},
+        "lang": {}
+    }
+}

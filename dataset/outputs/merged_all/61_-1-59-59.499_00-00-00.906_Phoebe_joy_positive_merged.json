@@ -1,0 +1,17 @@
+{
+    "metadata": {
+        "dialogue_id": "61",
+        "time_start": "-1-59-59.499",
+        "time_end": "00-00-00.906",
+        "speaker": "Phoebe",
+        "emotion": "joy",
+        "sentiment": "positive",
+        "text_content": "Hey!",
+        "file_name": "61_-1-59-59.499_00-00-00.906_Phoebe_joy_positive"
+    },
+    "predicted": {
+        "face": {},
+        "prosody": {},
+        "lang": {}
+    }
+}

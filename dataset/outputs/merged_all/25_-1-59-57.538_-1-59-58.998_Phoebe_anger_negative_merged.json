@@ -1,0 +1,17 @@
+{
+    "metadata": {
+        "dialogue_id": "25",
+        "time_start": "-1-59-57.538",
+        "time_end": "-1-59-58.998",
+        "speaker": "Phoebe",
+        "emotion": "anger",
+        "sentiment": "negative",
+        "text_content": "All right, that's it, I quit.",
+        "file_name": "25_-1-59-57.538_-1-59-58.998_Phoebe_anger_negative"
+    },
+    "predicted": {
+        "face": {},
+        "prosody": {},
+        "lang": {}
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "metadata": {
+        "dialogue_id": "26",
+        "time_start": "-1-59-56.830",
+        "time_end": "-1-59-57.373",
+        "speaker": "Monica",
+        "emotion": "neutral",
+        "sentiment": "neutral",
+        "text_content": "Julie.",
+        "file_name": "26_-1-59-56.830_-1-59-57.373_Monica_neutral_neutral"
+    },
+    "predicted": {
+        "face": {},
+        "prosody": {},
+        "lang": {}
+    }
+}

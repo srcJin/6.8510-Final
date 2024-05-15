@@ -1,0 +1,17 @@
+{
+    "metadata": {
+        "dialogue_id": "110",
+        "time_start": "-1-59-55.995",
+        "time_end": "-1-59-58.457",
+        "speaker": "Phoebe",
+        "emotion": "neutral",
+        "sentiment": "neutral",
+        "text_content": "Ohh, okay, they gave you the old time pricing.",
+        "file_name": "110_-1-59-55.995_-1-59-58.457_Phoebe_neutral_neutral"
+    },
+    "predicted": {
+        "face": {},
+        "prosody": {},
+        "lang": {}
+    }
+}

@@ -1,0 +1,1 @@
+[{"source": {"type": "file", "filename": "1024_-1-59-59.790_00-00-00.422_Joey_joy_positive.mp4", "content_type": "video/mp4", "md5sum": "b2a2c27acb33c81e7fa41cf988c95fbf"}, "results": {"predictions": [{"file": "1024_-1-59-59.790_00-00-00.422_Joey_joy_positive.mp4", "file_type": "video_no_audio", "models": {"face": {"metadata": null, "grouped_predictions": []}}}], "errors": []}}]
