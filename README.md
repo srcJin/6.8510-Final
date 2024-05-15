@@ -7,7 +7,6 @@ SentiScribe is a comprehensive toolset for analyzing sentiment and emotion from 
 
 Jin Gao, Selena Zhang
 
-
 Note: for the sake of size, we don't include the dataset video files in this reposotory. 
 
 You can download the video files from https://affective-meld.github.io/
@@ -96,6 +95,8 @@ Project Root
      pip install -r requirements.txt
      ```
 
+   We recommend python 3.10+ for running this project.
+
 2. **Data Preparation**:
    - Use the `API_Workflow_1_dataset_preparation.ipynb` to prepare your dataset. This notebook likely contains scripts to fetch, clean, and structure the data needed for sentiment analysis.
    - The `API_Workflow_1_dataset_preparation_reversed.ipynb` might be used for a similar purpose but perhaps processes the data in a different order or method.
@@ -149,6 +150,11 @@ The project is organized into several directories:
 
 - `API_Workflow_3_performance_experiments.ipynb`: Conducts performance experiments on the train dataset.
 - `emotion_mappings.ipynb`: Maps detected emotions to predefined categories.
+
+
+## UI
+
+- You can navigate to the UI folder, use VS Code plugin including Live Server or Five Server, to browse the HTML pages as a website.
 
 ## Presentation
 
