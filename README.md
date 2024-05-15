@@ -12,48 +12,82 @@ You can download the video files from https://affective-meld.github.io/
 ## File structure
 
 Project Root
+
 │
+
 ├── archive
+
 │
+
 ├── data  -  processed files for zoom recordings
+
 │   └── outputs
+
 │       ├── dataframe
+
 │       ├── gpt
+
 │       ├── hume
+
 │       ├── zoom
+
 │       └── zoom_clipped
+
 │           ├── processed_results.csv
+
 │           └── processed_results.json
+
 │
+
 └── dataset  -  processed files for MELD Dataset
+
     └── outputs
+
         ├── dev_result - dev dataset outputs
+
         ├── hume - original outputs from hume api call 
+
         ├── merged_all - processed and merged files for further prediction
+
         ├── dev_sent_emo.csv - metadata for MELD dev datasets
+
         └── train_sent_emo.csv - metadata for MELD test datasets
+
 │
+
 ├── HTML_UI
+
 │   ├── .vscode
+
 │   ├── UI_Dataset - HTML UI for Dataset visualization
+
 │   └── UI_Zoom - HTML UI for Zoom visualization
+
 │
+
 └── Root Directory Files
+
     ├── .env - configure your API keys
+
     ├── .env_template
 
     Step 1: Dataset Preparation
 
     ├── API_Workflow_1_dataset_preparation.ipynb -- slice and process MELD Datasets
+
     ├── API_Workflow_1_dataset_preparation_reversed.ipynb  -- slice and process MELD Datasets reversly, can be used together with the non-reversed notebook for parallel processing.
+
     ├── Product_Workflow_Zoom_Processing.ipynb  -- slice and process zoom recordings
 
 
     Step 1.5: Visualize the dataset, and Test using ChatGPT
 
     ├── API_Workflow_1.5_Test_on_ChatGPT_API.ipynb - Test for MVP using ChatGPT to process conversation level sentiments
+
     ├── API_Workflow_1.5_Visualization.ipynb - Visualize porosody to see the dynamic of changing sentiments
+
     ├── visualization_dataset.png - visualization result on MELD dataset
+
     ├── visualization_zoom.png - visualization result on Zoom recordings
 
     Step 2: Merge the data for prediction
@@ -63,17 +97,24 @@ Project Root
     Step 3: Prediction emotions using different methods
 
     ├── API_Workflow_3_performance_experiments_traindataset.ipynb
+
     ├── API_Workflow_3_performance_experiments.ipynb
+
     ├── emotion_mappings.ipynb
 
 
     Presentation Movie:
+
     ├── presentation_movie.mp4
 
     Others:
+
     ├── .gitignore
+
     ├── README.md
+
     ├── requirements.txt
+    
     └── LICENSE
 
 
