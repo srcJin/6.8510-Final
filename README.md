@@ -1,7 +1,5 @@
 # SentiScribe: Multimodal Fusion for Sentiment Analysis
 
-# SentiScribe: Multimodal Fusion for Sentiment Analysis
-
 SentiScribe is a comprehensive toolset for analyzing sentiment and emotion from multimodal data sources such as MELD datasets and Zoom recordings. This project integrates various data processing, visualization, and machine learning techniques to provide a robust analysis of conversational dynamics.
 
 
