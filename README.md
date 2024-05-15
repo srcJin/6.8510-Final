@@ -35,7 +35,7 @@ Project Root
         ├── dev_sent_emo.csv - metadata for MELD dev datasets
         └── train_sent_emo.csv - metadata for MELD test datasets
 │
-├── UI
+├── HTML_UI
 │   ├── .vscode
 │   ├── UI_Dataset - HTML UI for Dataset visualization
 │   └── UI_Zoom - HTML UI for Zoom visualization
@@ -122,7 +122,7 @@ The project is organized into several directories:
   - **outputs**: Includes subdirectories for each processing stage (`dataframe`, `gpt`, `hume`, `zoom`, `zoom_clipped`).
 - **dataset**: Holds processed files for MELD Dataset.
   - **outputs**: Contains specific outputs like development and test dataset results.
-- **UI**: Contains HTML interfaces for data visualization.
+- **HTML_UI**: Contains HTML interfaces for data visualization.
 - **Root Directory Files**: Includes configuration files, notebooks for various workflows, and other necessary files.
 
 #### MELD Datasets
@@ -152,9 +152,9 @@ The project is organized into several directories:
 - `emotion_mappings.ipynb`: Maps detected emotions to predefined categories.
 
 
-## UI
+## HTML_UI
 
-- You can navigate to the UI folder, use VS Code plugin including Live Server or Five Server, to browse the HTML pages as a website.
+- You can navigate to the HTML_UI folder, use VS Code plugin including Live Server or Five Server, to browse the HTML pages as a website.
 
 ## Presentation
 

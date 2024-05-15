@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Conversation Transcript with Frames</title>
+<style>
+    .entry { margin-bottom: 20px; border: 1px solid #ccc; padding: 10px; }
+    .speaker { color: blue; font-weight: bold; }
+    .time { color: grey; font-style: italic; }
+    .emotions { color: green; }
+    .text { margin-left: 20px; }
+    .frame-image {
+        width: 150px; /* Adjust size as needed */
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        margin-right: 5px; /* Spacing between images */
+        margin-bottom: 5px;
+    }
+    .images-container {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: flex-start;
+    }
+    .dialogue-section {
+        border: 2px solid #ddd;
+        margin-bottom: 30px;
+        padding: 10px;
+        background-color: #f9f9f9;
+    }
+    .dialogue-title {
+        font-size: 18px;
+        color: #333;
+        margin-bottom: 10px;
+    }
+</style>
+</head>
+<body>
+<div id="transcriptContainer">Loading data...</div>
+
+<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        loadData();
+    });
+
+    function loadData() {
+        axios.get('./data/processed_results.json')
+        .then(function (response) {
+            renderTranscript(response.data);
+        })
+        .catch(function (error) {
+            console.error('Error loading the JSON data:', error);
+            document.getElementById('transcriptContainer').innerHTML = 'Failed to load data.';
+        });
+    }
+
+    function renderTranscript(data) {
+        const container = document.getElementById('transcriptContainer');
+        container.innerHTML = ''; // Clear previous contents
+
+        // Group data by Dialogue_ID
+        const groupedByDialogue = data.reduce((acc, entry) => {
+            if (!acc[entry.Dialogue_ID]) {
+                acc[entry.Dialogue_ID] = [];
+            }
+            acc[entry.Dialogue_ID].push(entry);
+            return acc;
+        }, {});
+
+        // Render each dialogue section
+        Object.entries(groupedByDialogue).forEach(([dialogueId, entries]) => {
+            let dialogueHTML = `<div class="dialogue-section">
+                <div class="dialogue-title">Dialogue ID: ${dialogueId}</div>`;
+
+            entries.forEach(entry => {
+                const emotions = entry.Top_Emotions ? Object.entries(entry.Top_Emotions)
+                    .map(([emotion, value]) => `${emotion}: ${value.toFixed(2)}`)
+                    .join(', ') : 'No emotions data';
+
+                const startSecond = Math.floor(entry.Frame_Start);
+                const endSecond = Math.ceil(entry.Frame_End);
+
+                let imagesHTML = '<div class="images-container">';
+                for (let second = startSecond; second <= endSecond; second++) {
+                    const formattedStartTime = entry.Time_Start.replace(/:/g, '-');
+                    const formattedEndTime = entry.Time_End.replace(/:/g, '-');
+                    const imageName = `${entry.Dialogue_ID}_${formattedStartTime}_${formattedEndTime}_${entry.Speaker}_sec_${String(second).padStart(2, '0')}.jpeg`;
+                    const imagePath = `./images/frames/${imageName}`;
+                    imagesHTML += `<img src="${imagePath}" alt="Frame Image ${second}" onerror="this.style.display='none'" class="frame-image">`;
+                }
+                imagesHTML += '</div>';
+
+                dialogueHTML += `
+                    <div class="entry">
+                        <div class="speaker">${entry.Speaker || 'Unknown Speaker'}</div>
+                        <div class="time">${entry.Time_Start} - ${entry.Time_End}</div>
+                        <div class="emotions">Emotions: ${emotions}</div>
+                        <div class="text">${entry.Text || 'No text provided'}</div>
+                        ${imagesHTML}
+                    </div>
+                `;
+            });
+
+            dialogueHTML += `</div>`; // Close dialogue-section div
+            container.innerHTML += dialogueHTML;
+        });
+    }
+</script>
+</body>
+</html>
