@@ -1,0 +1,1 @@
+[{"source": {"type": "file", "filename": "5_00-02-19.420_00-02-20.110_User-1.mp3", "content_type": null, "md5sum": "28071e4a73af5a775cc6ed34dd35a004"}, "results": {"predictions": [], "errors": [{"file": "5_00-02-19.420_00-02-20.110_User-1.mp3", "model": null, "message": "unable to transcribe file: transcript confidence (0.35498047) below threshold value (0.5)"}]}}]
